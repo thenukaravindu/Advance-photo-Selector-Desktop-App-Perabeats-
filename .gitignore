@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches
+.photo_cully_cache/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Build and Distribution folders
+build/
+dist/
+*.spec
+
+# Model weights (too large for GitHub)
+epoch-82.pth
+*.pth
+
+# Local OS files
+.DS_Store
+Thumbs.db
